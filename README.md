@@ -1,5 +1,5 @@
 # File.Package-Nuget
-The purpose of this repository is to document File Manager nuget package. 
+The purpose of this repository is to document File Manager nuget package. This package was previously created and used in: https://github.com/Daxrsa/NetWorked
 # Link to the package
 https://www.nuget.org/packages/Networked.Utilities.FileManager
 # Package description:
