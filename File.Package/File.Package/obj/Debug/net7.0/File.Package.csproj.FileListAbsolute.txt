@@ -1,0 +1,12 @@
+C:\Users\fitor\ProjektiLab2\NetWorked\backend\File.Package\File.Package\bin\Debug\net7.0\File.Package.deps.json
+C:\Users\fitor\ProjektiLab2\NetWorked\backend\File.Package\File.Package\bin\Debug\net7.0\File.Package.dll
+C:\Users\fitor\ProjektiLab2\NetWorked\backend\File.Package\File.Package\bin\Debug\net7.0\File.Package.pdb
+C:\Users\fitor\ProjektiLab2\NetWorked\backend\File.Package\File.Package\obj\Debug\net7.0\File.Package.csproj.AssemblyReference.cache
+C:\Users\fitor\ProjektiLab2\NetWorked\backend\File.Package\File.Package\obj\Debug\net7.0\File.Package.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fitor\ProjektiLab2\NetWorked\backend\File.Package\File.Package\obj\Debug\net7.0\File.Package.AssemblyInfoInputs.cache
+C:\Users\fitor\ProjektiLab2\NetWorked\backend\File.Package\File.Package\obj\Debug\net7.0\File.Package.AssemblyInfo.cs
+C:\Users\fitor\ProjektiLab2\NetWorked\backend\File.Package\File.Package\obj\Debug\net7.0\File.Package.csproj.CoreCompileInputs.cache
+C:\Users\fitor\ProjektiLab2\NetWorked\backend\File.Package\File.Package\obj\Debug\net7.0\File.Package.dll
+C:\Users\fitor\ProjektiLab2\NetWorked\backend\File.Package\File.Package\obj\Debug\net7.0\refint\File.Package.dll
+C:\Users\fitor\ProjektiLab2\NetWorked\backend\File.Package\File.Package\obj\Debug\net7.0\File.Package.pdb
+C:\Users\fitor\ProjektiLab2\NetWorked\backend\File.Package\File.Package\obj\Debug\net7.0\ref\File.Package.dll
